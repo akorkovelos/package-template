@@ -1,8 +1,7 @@
 """
 gons_test package contains the following modules:
 
- - gons_test.py : main functions
- - gonscli_test.py : gons_test cli
+ - gons_test.py : main functions of the model
 """
 
 __version__ = "1.0.0"

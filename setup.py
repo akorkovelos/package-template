@@ -1,14 +1,15 @@
-from distutils.core import setup
+import setuptools
 
-import gons_test
+with open("README.md", "r") as fh:
+    long_description = fh.read()
 
 long_description = """
 Short description...
 """
 
-setup(
+setuptools.setup(
     name='gons_test',
-    version=gons_test.__version__,
+    version='1.0.0',
     author='test',
     author_email='test',
     description='test',
