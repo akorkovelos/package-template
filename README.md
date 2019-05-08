@@ -1,5 +1,5 @@
 # gons_test
-[![PyPI version](https://badge.fury.io/py/gridfinder.svg)](https://badge.fury.io/py/gridfinder) [![Documentation Status](https://readthedocs.org/projects/gonset-test/badge/?version=latest)](https://gonset-test.readthedocs.io/en/latest/?badge=latest)
+[![PyPI version](https://badge.fury.io/py/gridfinder.svg)](https://test.pypi.org/project/gons-test/) [![Documentation Status](https://readthedocs.org/projects/gonset-test/badge/?version=latest)](https://gonset-test.readthedocs.io/en/latest/?badge=latest)
 
 Documentation: https://gonset-test.readthedocs.io/en/latest/
 
