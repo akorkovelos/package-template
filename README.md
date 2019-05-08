@@ -44,7 +44,7 @@ gons_test requires Python >= 3.5 with the following packages installed:
 **Install with pip**
 
 ```
-pip install -i https://test.pypi.org/simple/ gons-test-alekordESA
+python -m pip install -i https://test.pypi.org/simple/ gons-test
 ```
 
 **Install from GitHub**
