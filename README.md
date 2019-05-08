@@ -1,16 +1,15 @@
 # gons_test
-[![PyPI version](https://badge.fury.io/py/gridfinder.svg)](https://badge.fury.io/py/gridfinder) [![Documentation Status](https://readthedocs.org/projects/gridfinder/badge/?version=latest)](https://gridfinder.readthedocs.io/en/latest/?badge=latest)
+[![PyPI version](https://badge.fury.io/py/gridfinder.svg)](https://badge.fury.io/py/gridfinder) [![Documentation Status](https://readthedocs.org/projects/gonset-test/badge/?version=latest)](https://gonset-test.readthedocs.io/en/latest/?badge=latest)
 
-Documentation: https://gridfinder.readthedocs.io/en/latest/
+Documentation: https://gonset-test.readthedocs.io/en/latest/
 
 The algorithm looks as follows in process, guessing the grid network for Malawi:
 
 [![Animated algorithm](https://raw.githubusercontent.com/carderne/gridfinder/master/gridfinder-animated.gif)](#)
 
 ## Input requirements
-gridfinder requires the following data sources:
-- NASA VIIRS data, monthly and annual composites available [here](https://ngdc.noaa.gov/eog/viirs/download_dnb_composites.html).
-- OSM highway data, most easily available using the [HOT Export Tool](https://export.hotosm.org/en/v3/), otherwise [BBBike](https://extract.bbbike.org/) or [geofabrik](https://download.geofabrik.de/), depending on your needs.
+-
+-
 
 ## Model usage
 
@@ -42,12 +41,6 @@ gons_test requires Python >= 3.5 with the following packages installed:
 - traitlets==4.3.2
 - wcwidth==0.1.7
 
- And these for using an interactive notebook:
- - `IPython`
- - `jupyter`
- - `matplotlib`
- - `seaborn`
-
 **Install with pip**
 
 ```
@@ -63,4 +56,4 @@ git clone https://github.com/ccc.git
 cd ccc
 pip install -r requirements.txt
 ```
-You can run ```./test.sh``` in the directory, which will do an entire run through using the test data and confirm whether everything is set up properly. (It will fail if jupyter isn't installed!)
+You can run ```./test.sh``` in the directory, which will do an entire run through using the test data and confirm whether everything is set up properly.
