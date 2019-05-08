@@ -44,7 +44,7 @@ gons_test requires Python >= 3.5 with the following packages installed:
 **Install with pip**
 
 ```
-pip install gons_test
+pip install -i https://test.pypi.org/simple/ gons-test-alekordESA
 ```
 
 **Install from GitHub**
@@ -52,8 +52,8 @@ pip install gons_test
 Download or clone the repository and install the required packages (preferably in a virtual environment):
 
 ```
-git clone https://github.com/ccc.git
-cd ccc
+git clone https://github.com/alekordESA/gonset-example.git
+cd gonset-example
 pip install -r requirements.txt
 ```
 You can run ```./test.sh``` in the directory, which will do an entire run through using the test data and confirm whether everything is set up properly.

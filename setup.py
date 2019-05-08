@@ -10,12 +10,12 @@ Short description...
 setuptools.setup(
     name='gons_test',
     version='1.0.0',
-    author='test',
-    author_email='test',
-    description='test',
+    author='Alexandros Korkovelos',
+    author_email='alekor@desa.kth.se',
+    description='This is a test package',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='test_repo_lonk',
+    url='https://github.com/alekordESA/gonset-example',
     packages=['gons_test'],
     install_requires=[
         'backcall==0.1.0',
