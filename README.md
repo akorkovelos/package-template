@@ -5,8 +5,7 @@ test package
 
 Documentation: https://package-template1.readthedocs.io/en/latest/
 
-Scope
-****************
+# Scope
 
 The algorithm looks as follows in process, guessing the grid network for Malawi:
 
