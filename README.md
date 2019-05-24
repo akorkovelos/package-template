@@ -7,15 +7,7 @@ Documentation: https://package-template1.readthedocs.io/en/latest/
 
 # Scope
 
-The algorithm looks as follows in process, guessing the grid network for Malawi:
-
-## Input requirements
--specs
--Malawi
-
-## Model usage
-
-To get to grips with the API and steps in the model, open the Jupyter notebook `gons_test_cli.ipynb`. This repository  includes the input data needed to do a test run for Malawi, so it should be a matter of openening the notebook and running all cells.
+Describe the scope of the package
 
 ## Installation
 
@@ -58,4 +50,10 @@ git clone https://github.com/alekordESA/gonset-example.git
 cd gonset-example
 pip install -r requirements.txt
 ```
-You can run ```./test.sh``` in the directory, which will do an entire run through using the test data and confirm whether everything is set up properly.
+
+## Input requirements
+-specs
+-Malawi
+
+## Testing
+To test you may ...

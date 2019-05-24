@@ -1,4 +1,4 @@
-import test_code
+import test_package
 
 class Testingfunction(unittest.TestCase):
 
@@ -6,5 +6,5 @@ class Testingfunction(unittest.TestCase):
         self.hello_message = "Hello test package!"
 
     def test_prints_hello_package(self):
-        output = test_code.hello()
+        output = test_package.hello()
         assert(output == self.hello_message)
