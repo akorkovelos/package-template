@@ -1,0 +1,10 @@
+README.md
+setup.py
+test/test_code.py
+test_package_kthdesa/__init__.py
+test_package_kthdesa/test_package_kthdesa.py
+test_package_kthdesa.egg-info/PKG-INFO
+test_package_kthdesa.egg-info/SOURCES.txt
+test_package_kthdesa.egg-info/dependency_links.txt
+test_package_kthdesa.egg-info/requires.txt
+test_package_kthdesa.egg-info/top_level.txt

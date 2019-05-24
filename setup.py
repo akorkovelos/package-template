@@ -8,7 +8,7 @@ Short description...
 """
 
 setuptools.setup(
-    name='test_package',
+    name='test_package_kthdesa',
     version='1.0.0',
     author='Alexandros Korkovelos',
     author_email='alekor@desa.kth.se',
@@ -16,7 +16,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='https://github.com/alekordESA/package-template',
-    packages=['test_package'],
+    packages=['test_package_kthdesa'],
     install_requires=[
         'numpy>=1.16',
         'pandas>=0.24'
