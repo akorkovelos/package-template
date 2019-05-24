@@ -1,7 +1,12 @@
-# gons_test
+test package
+=================================
+
 [![PyPI version](https://badge.fury.io/py/gridfinder.svg)](https://test.pypi.org/project/gons-test/) [![Documentation Status](https://readthedocs.org/projects/gonset-test/badge/?version=latest)](https://gonset-test.readthedocs.io/en/latest/?badge=latest)
 
 Documentation: https://gonset-test.readthedocs.io/en/latest/
+
+Scope
+****************
 
 The algorithm looks as follows in process, guessing the grid network for Malawi:
 

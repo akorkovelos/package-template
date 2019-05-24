@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'The GEP User Guide'
-copyright = '2019, The Global Electrification Platform'
-author = 'KTH dESA'
+project = 'Define package name'
+copyright = '2019'
+author = 'Define author'
 
 # The short X.Y version
 version = 'Version 2019.0'
@@ -101,7 +101,7 @@ html_static_path = ['nstatic']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'TheGEPUserManualdoc'
+htmlhelp_basename = 'packagenamedoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -128,8 +128,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'TheGEPUserManual.tex', 'The GEP User Guide',
-     'KTH dESA', 'manual'),
+    (master_doc, 'packagename.tex', 'package name',
+     'Define author', 'manual'),
 ]
 
 
@@ -138,7 +138,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'thegepusermanual', 'The GEP User Guide',
+    (master_doc, 'package name',
      [author], 1)
 ]
 
@@ -149,7 +149,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'TheGEPUserManual', 'The GEP User Guide',
-     author, 'TheGEPUserManual', 'One line description of project.',
+    (master_doc, 'package name',
+     author, 'package name', 'One line description of project.',
      'Miscellaneous'),
 ]
